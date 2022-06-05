@@ -4,6 +4,7 @@ First Data: Suicide Rates Overview 1985 to 2016
 Second Data: World Happiness Report
 Reference to first data: 
 - https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
 Reference to second data: 
 - https://www.kaggle.com/unsdsn/world-happiness
 
@@ -18,9 +19,13 @@ My research question:
 - What makes people in a country happy?
 - How does happiness rate of a country effect the suicide rates of the same country?
 - How will the suicide rates behave in the next years to come?
+
+
 My hypothesis: 
 - Does males are more suicidal than the females?
 - Does more population mean more suicide rate?
+
+
 Experiments I expect to do: 
 - Describing the data and analyzing the mean, standard deviation and such.
 - Analyzing the correlations of the data.
